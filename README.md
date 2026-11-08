@@ -21,7 +21,8 @@ Longest chain: 31
 
 My outbreak report (a screenshot of `output/outbreak.html`):
 
-![alt text](image.png)
+![Uploading image.png…]()
+
 
 ## Questions
 
